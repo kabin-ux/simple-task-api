@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Finish assignment",
+    "description": "Complete the Node.js assignment",
+    "status": "in-progress"
+  },
+  {
+    "id": 2,
+    "name": "Finish assignment",
+    "description": "Complete the Node.js assignment",
+    "status": "completed"
+  }
+]
